@@ -105,9 +105,6 @@ also just be read directly on GitHub without running anything.
 │   ├── roc_curve.png
 │   └── feature_importance.png
 │
-├── requirements.txt
-├── LICENSE
-├── .gitignore
 └── README.md
 ```
 
