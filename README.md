@@ -83,14 +83,6 @@ complex one wins, and using the model's feature importance to produce
 actionable retention recommendations rather than stopping at a prediction
 score.
 
-## Getting Started
-```bash
-pip install -r requirements.txt
-jupyter notebook notebooks/Churn_Prediction_Analysis.ipynb
-```
-The notebook is already executed and saved with its outputs, so it can
-also just be read directly on GitHub without running anything.
-
 ## Repository Contents
 ```
 ├── data
